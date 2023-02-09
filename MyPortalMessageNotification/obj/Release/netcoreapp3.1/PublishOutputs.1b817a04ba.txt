@@ -1,0 +1,14 @@
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\MyPortalMessageNotification.exe
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\MyPortalMessageNotification.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\MyPortalMessageNotification.deps.json
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\MyPortalMessageNotification.runtimeconfig.json
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\MyPortalMessageNotification.pdb
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\Flurl.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\Flurl.Http.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\System.Data.SqlClient.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\runtimes\win-x64\native\sni.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\runtimes\win-x86\native\sni.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotification\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

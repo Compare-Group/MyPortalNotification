@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ben.chambers\\OneDrive - Business Insurance Solutions Ltd\\Documents\\GitHub\\MyPortalMessageNotification\\MyPortalMessageNotification\\MyPortalMessageNotification.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ben.chambers\\OneDrive - Business Insurance Solutions Ltd\\Documents\\GitHub\\MyPortalMessageNotification\\MyPortalMessageNotification\\MyPortalMessageNotification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ben.chambers\\OneDrive - Business Insurance Solutions Ltd\\Documents\\GitHub\\MyPortalMessageNotification\\MyPortalMessageNotification\\MyPortalMessageNotification.csproj",
+        "projectName": "MyPortalMessageNotification",
+        "projectPath": "C:\\Users\\ben.chambers\\OneDrive - Business Insurance Solutions Ltd\\Documents\\GitHub\\MyPortalMessageNotification\\MyPortalMessageNotification\\MyPortalMessageNotification.csproj",
+        "packagesPath": "C:\\Users\\ben.chambers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ben.chambers\\OneDrive - Business Insurance Solutions Ltd\\Documents\\GitHub\\MyPortalMessageNotification\\MyPortalMessageNotification\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ben.chambers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://iisgdev:8081/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+﻿Installing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Installing service MyPortalMessageNotification...
+Creating EventLog source MyPortalMessageNotification in log Application...
+Rolling back assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Restoring event log to previous state for source MyPortalMessageNotification.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Installing service MyPortalMessageNotification...
+Creating EventLog source MyPortalMessageNotification in log Application...
+Rolling back assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Restoring event log to previous state for source MyPortalMessageNotification.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Installing service MyPortalMessageNotification...
+Service MyPortalMessageNotification has been successfully installed.
+Creating EventLog source MyPortalMessageNotification in log Application...
+Committing assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.InstallLog
+   assemblypath = C:\Users\ben.chambers\source\repos\MyPortalMessageNotification\MyPortalMessageNotificationService\bin\Debug\MyPortalMessageNotificationService.exe
+Removing EventLog source MyPortalMessageNotification.
+Service MyPortalMessageNotification is being removed from the system...
+Service MyPortalMessageNotification was successfully removed from the system.
